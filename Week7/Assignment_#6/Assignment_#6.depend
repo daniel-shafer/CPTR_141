@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1432149258 source:c:\users\daniel\desktop\cptr141_shafda\week6\assignment_#6\main.cpp
+	<iostream>
+	<cmath>
+	<stdio.h>
+	<stdlib.h>
+
+1432187084 source:c:\users\daniel\desktop\cptr141_shafda\week7\assignment_#6\main.cpp
+	<iostream>
+	<cmath>
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+

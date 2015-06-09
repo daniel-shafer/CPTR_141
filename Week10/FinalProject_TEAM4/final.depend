@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1432925142 source:c:\users\daniel.shafer\desktop\final\main.cpp
+	<cstdlib>
+	<iostream>
+	<graphics.h>
+
+1433832069 source:\\cpfs.skynet.local\studentshome\daniel.shafer\my documents\cptr 141\final\main.cpp
+	<cstdlib>
+	<iostream>
+	<graphics.h>
+	<math.h>
+	<windows.h>
+
+1433812444 source:p:\cptr 141\final\main.cpp
+	<cstdlib>
+	<iostream>
+	<graphics.h>
+

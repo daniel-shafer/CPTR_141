@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1433869674 source:c:\users\daniel\desktop\cptr141_shafda\week10\finalproject_team4\main.cpp
+	<cstdlib>
+	<iostream>
+	<graphics.h>
+	<math.h>
+	<windows.h>
+

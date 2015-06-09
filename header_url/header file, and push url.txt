@@ -1,0 +1,28 @@
+/*****************************************************************************
+ Program file name: 		OS:Windows         		Assignment#:
+ Programmer:Daniel_Shafer		Class:CPTR_141 	Intro to programming	  Date:
+ Compiler: GNU GCC
+ 
+ Assistance/references:
+ Description:
+ Inputs: 
+ Outputs: 
+ 
+ Special Comments: 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~Grading Criteria~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ Assignment Requirements ___/3.0
+
+ Code Format/Cosmetics ___/3.0
+
+ Header & Code Comments: ___/2.0
+
+ Output Format/Cosmetics ___/2.0
+ ***Does Not Compile***: ___ (-10.0)
+ ***Late Work Deduction***: ___ (-0.5/day)
+ Total Grade: ___/10.0
+
+*****************************************************************************/
+
+https://github.com/jeremiahgibson91/cptr141_daniel-shafer
